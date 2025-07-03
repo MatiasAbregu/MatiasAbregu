@@ -1,5 +1,6 @@
-## Hi there 👋
+## Yoo! I'm Matías Abregú, a programmer who loves challenges and improving his skills. 
 
+### This part of the bio is in working 😜🛠
 <!--
 **MatiasAbregu/MatiasAbregu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
